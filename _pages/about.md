@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Lecturer: Applied Mathematics and Machine Learning Coordinator: Rhodes AI Research Group (RAIRG), Rhodes University, South Africa
+
+(046) 603 7447
+
 Research Interest
 ====
 - Big data analytics
