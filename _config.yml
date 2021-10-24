@@ -181,10 +181,13 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  students:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  contact:
     output: true
     permalink: /:collection/:path/
 
@@ -230,7 +233,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: students
     values:
       layout: single
       author_profile: true
