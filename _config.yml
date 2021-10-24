@@ -182,15 +182,11 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-  contact:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -247,6 +243,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
+
 
 # Sass/SCSS
 sass:
